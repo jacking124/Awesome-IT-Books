@@ -21,13 +21,13 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ## 分类
 - [Awesome-IT-Books](#awesome-it-books)
-  - [写在之前](#写在之前)
-  - [注意](#注意)
-  - [贡献者名单](#贡献者名单)
-  - [分类](#分类)
-    - [前端](#前端)
-    - [大数据](#大数据)
-    - [后端](#后端)
+  - [写在之前](#%E5%86%99%E5%9C%A8%E4%B9%8B%E5%89%8D)
+  - [注意](#%E6%B3%A8%E6%84%8F)
+  - [贡献者名单](#%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95)
+  - [分类](#%E5%88%86%E7%B1%BB)
+    - [前端](#%E5%89%8D%E7%AB%AF)
+    - [大数据](#%E5%A4%A7%E6%95%B0%E6%8D%AE)
+    - [后端](#%E5%90%8E%E7%AB%AF)
     - [Android](#android)
     - [C++](#c)
     - [Docker](#docker)
@@ -44,9 +44,8 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
     - [Rx/RxJava](#rxrxjava)
     - [TensorFlow](#tensorflow)
     - [IOT](#iot)
-    - [算法](#算法)
-    - [机器学习](#机器学习)
-    - [其他](#其他)
+    - [算法](#%E7%AE%97%E6%B3%95)
+    - [其他](#%E5%85%B6%E4%BB%96)
 
 ### 前端
 * [Html](前端/HTML.md)
@@ -64,7 +63,6 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
 * [Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.](https://github.com/Skykai521/ECTranslation)
-* [GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频](https://github.com/open-android/Android)
 
 ### C++
 * [C++并发编程(中文版)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/content/chapter1/1.0-chinese.html)
@@ -107,7 +105,6 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [JetBrains IDE/Android Studio 翻译插件](https://github.com/YiiGuxing/TranslationPlugin)
 * [Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
 * [Gradle User Guide 中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)
-* [Java面试+Java学习指南](https://github.com/AobingJava/JavaFamily)
 
 ### Kotlin
 * [Kotlin User Guide 中文翻译](https://www.kotlincn.net/docs/reference/)
@@ -119,14 +116,11 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Linux中国翻译项目](https://github.com/LCTT/TranslateProject)
 * [Shell 编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 * [笨办法学 Linux 中文版](https://legacy.gitbook.com/book/wizardforcel/llthw/details)
-* [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 
 ### Python
 * [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
 * [python document](https://github.com/ictar/python-doc)
 * [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)
-* [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
-* [Python语言基础50课](https://github.com/jackfrued/Python-Core-50-Courses)
 
 ### Redis
 * [《Redis Command Reference》全文的中文翻译版](https://github.com/huangz1990/redis)
@@ -138,7 +132,6 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### TensorFlow
 * [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
-* [30天吃掉那只 TensorFlow2](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 
 ### IOT
 * [MQTT协议中文版](https://legacy.gitbook.com/book/mcxiaoke/mqtt-cn/details)
@@ -146,15 +139,6 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### 算法
 * [算法珠玑——一个最精简的题库](https://legacy.gitbook.com/book/soulmachine/algorithm-essentials/details)
-* [LeetCode刷题记录与面试整理](https://github.com/yuanguangxin/LeetCode)
-* [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
-* [LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
-
-### 机器学习
-* [机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)
-* [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP](https://github.com/apachecn/AiLearning)
-* [斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
